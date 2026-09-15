@@ -3,7 +3,7 @@ ESPN team IDs for clubs in Europe’s top five football leagues.
 
 I was working on a Discord bot related to football and needed access to the the ESPN team ID for football teams and could not find a source which contained it. So I ended up creating the list which you can have a look at and hopefully save some time.
 
-[This file from my project](https://github.com/BarcaBoy109/match-alert/blob/main/teams.py) has all teams in the top 5 football leagues in europe (EPL, La Liga, Bundesliga, Serie A and Ligue 1) as of the 2026/2027 football season in a python dictionary. The following below is a relevant excerpt from the file linked above.
+[This file from my project](https://github.com/BarcaBoy109/match-alert/blob/main/teams.py) has all teams in the top 5 football leagues in europe (EPL, La Liga, Bundesliga, Serie A and Ligue 1) as of the 2026/2027 football season in a python dictionary. The following below is a relevant excerpt from the file linked above. Also contains a JSON translation at the end.
 
 ```python
 
