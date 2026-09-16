@@ -1,5 +1,5 @@
 # espn-football-team-lookup-ids
-ESPN team IDs for clubs in Europe’s top five football leagues.
+ESPN team IDs for clubs in Europe’s top five football(soccer) leagues.
 
 I was working on a Discord bot related to football and needed access to the the ESPN team ID for football teams and could not find a source which contained it. So I ended up creating the list which you can have a look at and hopefully save some time.
 
